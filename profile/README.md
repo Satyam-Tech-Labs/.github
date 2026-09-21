@@ -1,4 +1,4 @@
-![Open Source at Tech Satyam](https://github.com/Technologies-Satyam/.github/blob/177676875ce57f790b8364bef83f99cb08161797/images/banner.png)
+![Open Source at Tech Satyam](https://github.com/Satyam-Tech-Labs/.github/blob/aed4fa50efda70ff354fdf0b5b10dd4eb064bd55/images/poster.png)
 
 ## Our Goal
 Satyam Tech Labs is an organization focused on building modern Android/IOS, web, and cross-platform applications that turn ideas into useful digital experiences. We believe in creating software that is simple, reliable, accessible, and built with modern technologies such as React, Next.js, React Native, Expo, and native development tools. Our approach combines innovation with collaboration, allowing developers and learners to explore new ideas, experiment with emerging technologies, and contribute to selected open-source projects. 
